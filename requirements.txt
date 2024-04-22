@@ -12,6 +12,7 @@ MarkupSafe
 pandas
 python-dateutil
 pytz
+numpy
 scikit-learn
 scipy
 six
