@@ -33,4 +33,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 * Use multiple Algorithms
 * Optimize Flask app.py
-* Front-End 
+* Front-End
+
+## Acknowledgments
+Thanks to Amar Mandal for the info and the HTML5/CSS3 template!
